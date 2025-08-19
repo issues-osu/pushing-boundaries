@@ -1,5 +1,8 @@
 # Pushing the Boundary of Child Wellbeing: A Spatial Examination of Child Death Rates in Transition Zones of Extreme Economic Inequality and Material Hardship
 
+## Abstract
+How do patterns of socioeconomic inequality shape the risk of child fatality in urban areas? Studies have demonstrated that intentional and accidental deaths of children are highly clustered into areas of social disadvantage. However, in complex urban settings, the risk of death to children is likely to exhibit a more localized spatial structure characterized by rapid changes in child fatality risk. The present research uses Bayesian hierarchical modeling to detect spatial discontinuities in child fatality risk in transition areas defined by elevated levels of economic hardship and inequality (EHI). The analysis detected 413 neighborhood boundaries characterized by extreme differences in EHI (i.e., a difference of four deciles). Living in proximity to a boundary of extreme difference, called a social frontier, is associated with a 22% higher relative risk of child fatality beyond measures of neighborhood racial segregation, concentrated disadvantage, residential mobility, and immigrant concentration. The significance of identifying neighborhoods characterized as a social frontier where children may benefit from additional preventive interventions is discussed in context.
+
 **Reference:**  
 Barboza-Salerno, G., *Liebhard, B., *Duhaney, S., & Shockley-McCarthy, K. (2025). *Pushing the boundary of child wellbeing: A spatial examination of child death rates in transition zones of extreme economic inequality and material hardship.* PLOS ONE (in press).
 
@@ -88,7 +91,7 @@ Outputs include:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone this repository.  
 2. Ensure the following inputs are available:
    - Cook County Medical Examiner child death data (API call included).  
@@ -103,7 +106,7 @@ Outputs include:
 
 ---
 
-## 📌 Citation
+## Citation
 If you use or adapt this code, please cite:  
 
 Barboza-Salerno, G., *Liebhard, B., *Duhaney, S., & Shockley-McCarthy, K. (2025). *Pushing the boundary of child wellbeing: A spatial examination of child death rates in transition zones of extreme economic inequality and material hardship.* PLOS ONE.
